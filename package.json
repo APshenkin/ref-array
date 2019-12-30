@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "github:APshenkin/ref#eb4f54d"
+    "ref": "github:APshenkin/ref#9ca8873"
   },
   "devDependencies": {
     "bindings": "1",
